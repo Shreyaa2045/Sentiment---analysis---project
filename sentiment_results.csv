@@ -1,0 +1,6 @@
+Review,Sentiment_Score,Sentiment
+I love this product! It’s amazing.,0.6125,Positive
+Worst experience ever. Very disappointed.,-0.9875,Negative
+"The quality is okay, not great.",0.04999999999999999,Positive
+Absolutely fantastic! Will buy again.,0.5,Positive
+"Terrible service, rude staff.",-0.65,Negative
